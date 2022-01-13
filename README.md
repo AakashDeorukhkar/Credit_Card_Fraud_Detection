@@ -32,9 +32,11 @@ Class: This feature is the target variable and it takes value 1 in case of fraud
 ## Conclusion:
 Random Forest Classifier had and overall better performance than Logistic Regression
 
-Accuracy score:99.95962220427653%
-Recall score:77.55102040816327%
-Precision score:98.7012987012987%
+**Accuracy score:99.95962220427653%**
+
+**Recall score:77.55102040816327%**
+
+**Precision score:98.7012987012987%**
 
 This model yields a **precision** of **98.7%** and a **recall** of **77.5%**.
 
